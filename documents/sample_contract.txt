@@ -1,0 +1,7 @@
+SERVICE AGREEMENT
+Client: Acme Corp
+Vendor: TechSolutions LLC
+Contract Value: $15,000 USD
+Effective Date: October 1, 2026
+Scope: Cloud infrastructure migration and CrewAI agent integration.
+Term: 6 Months
